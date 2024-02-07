@@ -2,6 +2,7 @@
 import { AxiosResponse } from "axios";
 import React from "react";
 const axios = require("axios");
+//hej
 
 const page = () => {
   const fetchNFTs = async () => {
